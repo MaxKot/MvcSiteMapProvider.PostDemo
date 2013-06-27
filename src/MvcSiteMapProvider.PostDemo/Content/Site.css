@@ -59,3 +59,15 @@ textarea {
 .validation-summary-valid {
     display: none;
 }
+
+.navigation-menu {
+    position: fixed;
+    width: 20%;
+    margin: 40px 0;
+    border-right: 1px solid black;
+}
+
+.main-content {
+    margin-left: 20%;
+    padding-left: 30px;
+}
